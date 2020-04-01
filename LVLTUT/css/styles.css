@@ -1,1 +1,9 @@
 /*it worked*/
+h1{
+	color: #3B5998; /*facebook color*/
+	
+	font-size: 40px;
+}
+p{
+	color: #00acee; /*twitter color*/
+}
